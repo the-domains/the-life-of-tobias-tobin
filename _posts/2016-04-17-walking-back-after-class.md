@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Walking back after class.
-datePublished: '2016-04-17T22:25:43.537Z'
-dateModified: '2016-04-17T22:24:57.193Z'
+datePublished: '2016-04-17T22:29:20.867Z'
+dateModified: '2016-04-17T22:29:10.422Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-walking-back-after-class.md
@@ -31,4 +31,4 @@ Walking back after class.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecf15ac3-c0a0-499c-8f7e-3e7ac8608047.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87b4015f-0c09-46b1-a984-fe84fb1b3ad2.jpg)
 
-Blown away by the size on approach
+Am I really this handsome?
