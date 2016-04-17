@@ -1,0 +1,28 @@
+name: the life of tobias-tobin
+favicon: null
+layout_spectrum: 0.9866565822158009
+typography_spectrum: 0.5021018420811743
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9623275445774198
+  lightness: 0.8768151390831918
+  saturation: 0.9784351047128439
+  rhythmicContrast: 0.22724849195219576
+purpose: []
