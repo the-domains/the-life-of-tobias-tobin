@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[First trip to NYC (9/2015)]]></title>
         <description><![CDATA[First trip to NYC (9/2015)]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-life-of-tobias-tobin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 22:21:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 22:25:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-life-of-tobias-tobin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/716637f9-81f8-46f4-a644-53611bf00776.jpg">]]></description>
-            <link>undefinedwalking-back-after-class/index.html</link>
+            <link>https://thegrid.ai/the-life-of-tobias-tobin/walking-back-after-class/index.html</link>
             <guid isPermaLink="false">e79f525a-7ebd-43da-b457-b32dc6a7d330</guid>
-            <pubDate>Sun, 17 Apr 2016 22:21:31 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 22:25:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
